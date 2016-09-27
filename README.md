@@ -5,4 +5,4 @@ winter is coming...
 
 
 ## 效果
-![SnowingView效果](./design/snowingview.gif)
+![SnowingView效果](./design/SnowingView.gif)
