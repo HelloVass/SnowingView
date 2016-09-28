@@ -20,4 +20,4 @@
 
 
 ## 参考
-- 之前在开发者看到的 [Android下雪动画](http://www.devtf.cn/?p=1268)，但是，我并没有看懂作者的[雪花下落算法](http://www.openprocessing.org/sketch/84771)
+- 之前在**开发者前线**看到的 [Android下雪动画](http://www.devtf.cn/?p=1268)，但是，我并没有看懂作者的[雪花下落算法](http://www.openprocessing.org/sketch/84771)
